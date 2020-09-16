@@ -3,6 +3,7 @@
  <p id="sobre" align="center">
 Clone da página de produto do mercado livre usando React e Typescript, Somente Front-End, Feito com base em: https://www.youtube.com/watch?v=APs_xQ2hUOE
 
+![](https://img.shields.io/badge/license-MIT-green)
 
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 
@@ -12,7 +13,7 @@ Clone da página de produto do mercado livre usando React e Typescript, Somente 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/blob/master/.github/Imagem.JPG" />  </h2>
 
 ### Features 
-- [x] Completo como no Vídeo da <a href="rocketseat.com.br">Rocketseat</a>
+- [x] Completo como no Vídeo da <a href="https://rocketseat.com.br">Rocketseat</a>
 - [x] Header Incrementado
 - [x] Footer Incrementado
 
@@ -37,7 +38,7 @@ Tabela de conteúdos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
  [Node.js](https://nodejs.org/pt-br/)
-  [React](https://reactjs.org/)
+ [React](https://reactjs.org/)
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
  
