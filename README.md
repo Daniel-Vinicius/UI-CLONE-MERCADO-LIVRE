@@ -3,13 +3,13 @@
  <p id="sobre" align="center">
 Clone da página de produto do mercado livre usando React e Typescript, Somente Front-End, Feito com base em: https://www.youtube.com/watch?v=APs_xQ2hUOE
 
-[![GitHub license](https://img.shields.io/github/license/Daniel-Vinicius/Webepack)](https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/blob/master/LICENSE)
- 
+
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 
-[![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Webepack?color=FFF300&style=social)](https://github.com/Daniel-Vinicius/Webepack/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Webepack?color=FFF300&style=social)](https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/stargazers)
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/.github/Imagem.JPG" />  </h2>
+
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/blob/master/.github/Imagem.JPG" />  </h2>
 
 ### Features 
 - [x] Completo como no Vídeo da <a href="rocketseat.com.br">Rocketseat</a>
